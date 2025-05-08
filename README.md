@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **nodejs , Express and Nextjs**
 
-- 👨‍💻 All of my projects are available at [imrebin.co](imrebin.co)
+- 👨‍💻 All of my projects are available at [Heyrebin](heyrebin.in)
 
 - 💬 Ask me about **react , nextjs**
 
